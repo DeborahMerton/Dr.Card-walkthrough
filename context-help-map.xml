@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="my_digital_literacy_experience"
+               path="my_digital_literacy_experience.html"/>
+   <appContext helpID="my_story_so_far" path="my_story_so_far.html"/>
+   <appContext helpID="what_i_have_learned" path="what_i_have_learned.html"/>
+   <appContext helpID="new_vocabulary_0" path="new_vocabulary_0.html"/>
+   <appContext helpID="my_projects" path="my_projects.html"/>
+   <appContext helpID="references" path="references.html"/>
+</map>
